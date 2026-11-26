@@ -13,6 +13,12 @@
 //    paragraph of reasoning.
 // 5. Every character earns its place: premise, verdict, and a kicker that
 //    callbacks the sunbeam — no padding, no throat-clearing.
+//
+// Runner-up considered and rejected (116 chars): "There was another cat
+// living inside that glass, so I evicted the intruder — one cat per house,
+// and I was here first." It is funny, but the reflection-rival premise needs
+// a beat of explaining, while the sunbeam premise is instantly cat-logical:
+// every cat owner knows the sunbeam is sacred territory.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
